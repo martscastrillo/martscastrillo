@@ -31,6 +31,9 @@ Soy una junior frontend developer. Estoy iniciando mi camino en el mundo de la p
   <a href="https://twitter.com/martscastrillo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a mailto="mart.castrillo@gmail.com">
+    <img src="https://img.shields.io/badge/mail-green?style=for-the-badge&logo=mail&logoColor=white" />
+  </a>
 </div>
 <h3> My GitHub Stats :</h3>
 
