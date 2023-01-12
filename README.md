@@ -33,8 +33,9 @@ Soy una junior frontend developer. Estoy iniciando mi camino en el mundo de la p
   <a href="https://twitter.com/martscastrillo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- 
+   </a>
+     <a href="mailto:mart.castrillo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </div>
-<h3> My GitHub Stats :</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martscastrillo)](https://github.com/anuraghazra/github-readme-stats)
