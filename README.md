@@ -2,10 +2,10 @@
  <h2 align="center">Hi! I'm Marta! 👋</h2>
 </p>
 
-Soy una junior frontend developer. Estoy iniciando mi camino en el mundo de la programación, tengo mucha iniciativa y muchas ganas de aprenderlo todo. He estudiado:
-- Bootcamp de Desarrollo Web Full Stack en [Adalab.](https://adalab.es/)
-- Realización de Proyectos Audiovisuales y Espectáculos, Diseño gráfico y VFX
-- También he estudiado Turismo y Administración y Dirección de Empresas
+I am a junior frontend developer. I am beginning my path in the world of programming, I have a lot of initiative and a great desire to learn everything. I have studied:
+- Full Stack Web Development Bootcamp at [Adalab.](https://adalab.es/)
+- Realization of Audiovisual Projects and Shows, Graphic Design and VFX
+- I have also studied Tourism and Business Administration and Management
 
 <div>
 <h3>Languages :</h3>
