@@ -2,7 +2,10 @@
  <h2 align="center">Hi! I'm Marta! 👋</h2>
 </p>
 
+![52714](https://user-images.githubusercontent.com/112553001/223176220-ff346257-ca0c-496d-ba69-a6aead5a8207.jpg)
+
 I am a junior frontend developer. I am beginning my path in the world of programming, I have a lot of initiative and a great desire to learn everything. I have studied:
+- Current Student in [42 Madrid](https://www.42madrid.com)
 - Full Stack Web Development Bootcamp at [Adalab.](https://adalab.es/)
 - Realization of Audiovisual Projects and Shows, Graphic Design and VFX
 - I have also studied Tourism and Business Administration and Management
