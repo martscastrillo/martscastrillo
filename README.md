@@ -52,23 +52,25 @@ I am a junior frontend developer. I am beginning my path in the world of program
   
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+ <!--  <a href="https://github.com/anuraghazra/github-readme-stats"> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martscastrillo&hide=HTML,G-code,scss,css,objective-c,roff,tex,makefile&theme=tokyonight&langs_count=8" alt="Top Langs"/>
-</a>
+ <!--  </a> -->
   
 <br>
   
 
   
 <br>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=martscastrillo&theme=tokyonight&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+ <!--  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=martscastrillo&theme=tokyonight&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" />
+ <!--  </a> -->
   
 <br>
   
 
   
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+ <!--  <a href="https://github.com/anuraghazra/github-readme-stats"> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=martscastrillo&theme=tokyonight&show_icons=true&hide=stars,prs" alt="Catalin's GitHub stats"/>
-</a>
+ <!-- </a> -->
 </div>
