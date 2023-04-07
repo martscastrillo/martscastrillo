@@ -35,7 +35,17 @@ I am a junior frontend developer. I am beginning my path in the world of program
    <img src="https://img.shields.io/badge/NPM-cc3838?style=for-the-badge&logo=NPM&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SLACK-4a154b?style=for-the-badge&logo=SLACK&logoColor=white"/> 
+  <!--  <img src="https://img.shields.io/badge/SLACK-4a154b?style=for-the-badge&logo=SLACK&logoColor=white"/> -->
+</div>
+<div>
+<h3>Design and Video Tools :</h3>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> 
+
 </div>
 <div>
 <h3> Contact :</h3>
